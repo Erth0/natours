@@ -1,0 +1,32 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing Page For Natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erth0/natours.git"
+  },
+  "keywords": [
+    "css",
+    "advanced-css",
+    "css3",
+    "node",
+    "npm",
+    "sass",
+    "scss"
+  ],
+  "author": "Eluert Mukja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Erth0/natours/issues"
+  },
+  "homepage": "https://github.com/Erth0/natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  },
+  "dependencies": {}
+}
